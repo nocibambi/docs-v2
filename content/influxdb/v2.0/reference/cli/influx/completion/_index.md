@@ -40,7 +40,7 @@ $ source $(brew --prefix)/etc/bash_completion
 $ source <(influx completion bash)
 
 # Ubuntu
-$ source /etc/bash-completion
+$ source /etc/bash_completion
 $ source <(influx completion bash)
 ```
 {{% /code-tab-content %}}
